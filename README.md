@@ -1,2 +1,2 @@
-# csgooffsets
+# Csgo offsets
 mostly for me
