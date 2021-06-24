@@ -1,0 +1,2 @@
+# csgooffsets
+mostly for me
